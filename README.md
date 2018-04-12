@@ -2,6 +2,7 @@
 
 Que manda uma mensagem para um grupo ou usuário.
 
+0. Clone esse repositório
 1. Fale com o BotFather em https://telegram.me/botfather
 2. Mande uma mensagem `/newbot` pra ele, escolha um nome pro bot
 3. Ele irá responder com um token de acesso, um longo texto de números e letras. Salve esse token em um lugar seguro
